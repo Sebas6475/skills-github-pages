@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz 1 de Febrero</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: pink;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .mensaje {
+            background: rgba(255, 0, 127, 0.8);
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="mensaje">
+        <h1>Feliz 1 de Febrero, mi reina hermosa ❤️</h1>
+        <p>Te amo, iniciemos bien este mes, nuestro primer primero de febrero juntos. 💕</p>
+        <p>Eres la luz de mis días y la melodía que hace latir mi corazón. Cada momento a tu lado es un regalo y quiero que este mes sea tan especial como tú lo eres para mí. 🌹💖</p>
+    </div>
+</body>
+</html>
